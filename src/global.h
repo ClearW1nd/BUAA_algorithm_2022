@@ -1,1 +1,1 @@
-#define Max_g_size 10000
+#define Max_g_size 100000
